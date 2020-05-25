@@ -1,0 +1,26 @@
+{
+  "name": "expressHandlebars",
+  "version": "1.0.0",
+  "description": "A study into using handlebars to render page content.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBanuelos00/expressHandlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBanuelos00/expressHandlebars/issues"
+  },
+  "homepage": "https://github.com/JBanuelos00/expressHandlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mysql": "^2.18.1"
+  }
+}
